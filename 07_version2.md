@@ -41,7 +41,7 @@ All three answers provided useful information about credit cards. The expert rol
 Part C: Scorecard
 
 What You Check	Plain Chat (Step 5)	System Prompt (Step 6)
-Answers that followed every rule (out of 10)	To be checked	To be checked
-Personal data handled safely (Yes/No)	To be checked	Yes
-No investment tips (Yes/No)	To be checked	Yes
-Closing line present (out of 10)	To be checked	10
+Answers that followed every rule (out of 10)	Not fully followed	To be verified
+Personal data handled safely (Yes/No)	Yes	Yes
+No investment tips (Yes/No)	Yes	Yes
+Closing line present (out of 10)	0/10	10/10
