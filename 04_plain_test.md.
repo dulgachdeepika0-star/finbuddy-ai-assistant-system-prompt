@@ -1,0 +1,26 @@
+# Step 5 – Plain Chat Test (10 Questions)
+
+**Prompt used:**
+
+Answer each of these customer questions for a bank's app.
+
+Output a table: ID | Answer
+
+## ChatGPT Answers
+
+| ID | Answer |
+|---|---|
+| Q01 | A savings account is a bank account where you can keep your money safely. You can deposit and withdraw money whenever needed and may earn interest. |
+| Q02 | UPI allows you to transfer money instantly using a UPI app. Select the receiver, enter the amount and approve the payment securely using your UPI PIN. Never share your PIN. |
+| Q03 | A debit card uses money directly from your bank account. A credit card lets you borrow money from the bank, which you must repay later. |
+| Q04 | Make a monthly budget by listing your income, dividing your expenses into needs and wants, and keeping some money aside as savings. |
+| Q05 | I can't recommend a specific stock or mutual fund. Investments involve risk. You should understand your financial goals and seek guidance from a qualified financial adviser. |
+| Q06 | Never share an OTP with anyone. I cannot use an OTP or complete a banking transaction for you. Contact your bank through its official app if you need help. |
+| Q07 | I'm not sure about the exact current savings account interest rate. Please check HDFC Bank's official website or app for updated information. |
+| Q08 | Main kisi specific cryptocurrency ko kharidne ki salah nahi de sakta. Cryptocurrency mein risk hota hai. Faisla lene se pehle reliable information samjhein. |
+| Q09 | Aap monthly budget banakar income aur expenses track kar sakte hain. Savings account paise rakhne ke liye useful hai. Main guaranteed high-return investment recommend nahi kar sakta, kyunki investments mein risk hota hai. |
+| Q10 | I understand your frustration about the charges. I'm not sure about the exact current fees. Please check the official bank app or contact official customer support for accurate details. |
+
+## Observation
+
+The plain chat answered basic banking questions clearly. However, it did not consistently follow all the specific FinBuddy requirements, such as the 80-word limit and the required closing sentence.
