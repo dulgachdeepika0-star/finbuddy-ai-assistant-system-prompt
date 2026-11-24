@@ -37,3 +37,11 @@ Would you show it to a 19-year-old?	Yes	Yes	Yes
 Observation
 
 All three answers provided useful information about credit cards. The expert role gave more professional and detailed advice, while the college senior role used a friendly tone. The role mainly changed the tone and presentation, not the basic accuracy of the answers.
+
+Part C: Scorecard
+
+What You Check	Plain Chat (Step 5)	System Prompt (Step 6)
+Answers that followed every rule (out of 10)	To be checked	To be checked
+Personal data handled safely (Yes/No)	To be checked	Yes
+No investment tips (Yes/No)	To be checked	Yes
+Closing line present (out of 10)	To be checked	10
